@@ -2,3 +2,21 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
+
+.banner-image {
+    opacity: .8;
+}
+
+.banner-title {
+    border-radius: 8px;
+    opacity: .9;
+}
+
+.banner-button {
+    background-color: rgba(19, 18, 18, 0.705);
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+    opacity: 1;
+}
