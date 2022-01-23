@@ -20,3 +20,11 @@ body {
     padding: 9px 25px;
     opacity: 1;
 }
+
+.list-item {
+    list-style: none;
+}
+
+.tick {
+    color: black;
+}
