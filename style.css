@@ -35,3 +35,16 @@ body {
     color: white;
     opacity: 0.8;
 }
+
+
+/* about */
+
+.useful-links {
+    list-style: none;
+    color: black;
+}
+
+ul li {
+    list-style: none;
+    text-decoration: none;
+}
